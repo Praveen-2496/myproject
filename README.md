@@ -1,3 +1,4 @@
 # myproject
 this is my first git repository
-author - Praveen kumar
+<br>
+Author - Praveen kumar
